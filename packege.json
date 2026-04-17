@@ -1,0 +1,22 @@
+{
+  "name": "pritesh-v5-lottery-bot",
+  "version": "5.0.0",
+  "description": "Ultra-Fast-Advanced Lottery Prediction Bot - WinGo 30S",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "axios": "^1.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "keywords": ["lottery", "prediction", "bot", "wingo"],
+  "author": "Pritesh",
+  "license": "MIT"
+}
